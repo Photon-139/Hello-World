@@ -23,8 +23,5 @@ public class Main {
         for(int i=0; i<z.length(); i++){
             System.out.println(z.charAt(i));
         }
-        for(int i=0; i<z.length(); i++){
-            System.out.println((int)z.charAt(i));
-        }
     }
 }
