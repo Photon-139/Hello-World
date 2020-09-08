@@ -15,7 +15,7 @@ System.out.println(x+" "+y);`
 `System.out.printf("%s %s\n",x,y);`
 
 # Joe starts learning Data Structures
-`String[] a={"H","e","l","l","o"," ","W","o","r","l","d"};  
+`String[] a={"H","e","l","l","o"," ","W","o","r","l","d"};<br/>
  for(int i=0; i<a.length; i++){
       System.out.print(a[i]);
  }`
