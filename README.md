@@ -1,4 +1,4 @@
-# Some Extra Oridinary ways to write Hello World
+# Some ways to write Hello World
 
 ## Joe's way
 ``` 
