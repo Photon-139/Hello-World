@@ -1,7 +1,7 @@
 # Some Extra Oridinary ways to write Hello World
 
 ## Joe's way
-```
+``` java
 System.out.println("Hello World");
 ```
 
