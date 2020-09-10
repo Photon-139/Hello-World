@@ -19,6 +19,8 @@ System.out.printf("%s %s\n","Hello","World");
 
 ## printf strikes back
 ```
+String x = "Hello";
+String y = "World";
 System.out.printf("%s %s\n",x,y);
 ```
 
